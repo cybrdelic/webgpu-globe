@@ -1,0 +1,5 @@
+{
+  "name": "KesslerZero: WebGPU Debris Defense",
+  "description": "A high-performance, GPU-accelerated N-body simulation leveraging WebGPU Compute Shaders to model space debris scenarios (Kessler Syndrome). Includes Gemini-powered real-time risk assessment and mitigation strategies.",
+  "requestFramePermissions": []
+}
